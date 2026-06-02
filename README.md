@@ -21,9 +21,6 @@
 <p align='center'>  
     <img src='assets/2222.png' width='1200'/>
   
-## 📊 Technical Solution
-<p align='center'>  
-    <img src='assets/3333.png' width='1200'/>
 </p>
 
 
