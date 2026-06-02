@@ -28,44 +28,16 @@
 
 
 # 👍  Advantages
-1. Only act when speaking, with semantic coordination.
-2. It can switch videos seamlessly without any flickering.
-3. Commercial algorithms can achieve a similarity of over 96% between teeth and mouth shapes.
-4. It can provide an extremely fast response within 500 milliseconds, compared to the average response time of around 1.5 seconds.
-5. Support the integration of various intelligent agents.
-6. Supports 2D, 2.5D, and 3D.
-7. Supports super concurrency. The 3060, priced at over 1000 yuan RMB, supports 4 to 6 concurrent paths.
-8. Support cloud deployment, local deployment, and information technology innovation transformation.
-9. Support performances such as singing, dancing, and changing clothes.
-10. Supports RAG, workflow, and agent orchestration.
-11. Low latency and high synchronization, ensuring high synchronization between audio and video lip shape, action, and voice.
-12. Supports multiple languages and switching between multiple models.
-13. Highly robust automatic speech recognition (ASR) + text-to-speech (TTS).
-14. Develop long-term contextual memory ability.
-15. It features personalized customization functions.
-16. Compliance and Security: Support for private deployment and data isolation to ensure security and reliability.
-17. Support seamless integration with mainstream large models.
+1. Ultra-realistic reproduction of my own teeth and mouth shape.
+2. support 1080p, 2K, and 4K resolutions.
+3. 3D head modeling.
+4. fast inference speed
 
-Wait, these are nationally leading commercial technologies, with no equivalent competing products in China, and currently only second to HeyGen in the United States.
 
 # 🔥 Features
-- Ultra low latency realtime interaction (<500ms fast response)
-- Natural gesture generation driven by speech semantics
-- Seamless video switching without flickering
-- High lip-sync accuracy (up to 96% similarity)
-- WebRTC realtime streaming
-- GPU realtime inference
-- Multi-agent integration
-- RAG and workflow orchestration
-- Singing, dancing and costume changing
-- 2D / 2.5D / 3D digital humans
-- Human / anime / animal  support
-- Cloud deployment and on-premise deployment
-- XinChuang compatibility support
-- Multi-language support
-- Long-context memory
-- Persona customization
 - High concurrency deployment
+- High-definition commercial non-real-time digital avatar
+  
 
 
 
@@ -79,18 +51,18 @@ Wait, these are nationally leading commercial technologies, with no equivalent c
   </tr>
   <tr>
     <td>
-      <video src=https://github.com/user-attachments/assets/33308041-5990-4f3f-9479-95b87907a575 controls preload></video>
+      <video src=https://github.com/user-attachments/assets/768cc291-a655-477a-817a-e0ed2c269ab0 controls preload></video>
     </td>
     <td>
-      <video src=https://github.com/user-attachments/assets/e1d29783-1c01-4f21-9cde-418f86e3a745 controls preload></video>
+      <video src=https://github.com/user-attachments/assets/a785c061-ac14-4a7a-856d-da8f71e9271f controls preload></video>
     </td>
   </tr>
   <tr>
     <td>
-      <video src=https://github.com/user-attachments/assets/2ef6fcd6-882a-44cb-8704-2ca3fcd8b543 controls preload></video>
+      <video src=https://github.com/user-attachments/assets/39237994-8c4f-4df8-9419-01d2f8b8073c controls preload></video>
     </td>
     <td>
-      <video src=https://github.com/user-attachments/assets/ffdc4d83-0185-4eaf-ac01-a1d65b7b9e2c controls preload></video>
+      <video src=https://github.com/user-attachments/assets/2f2e5b7f-face-4d40-93dc-02cfe79605cb controls preload></video>
     </td>
   <tr>
 </table>
