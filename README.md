@@ -1,6 +1,6 @@
 # 🚀 LangXin
 ### SOTA  Digital Human Platform , 
-### LangQing digital human videos in 1080p, 2K, and 4K resolutions.
+### LangXin digital human videos in 1080p, 2K, and 4K resolutions.
 ### 一个超保真还原本人牙齿和嘴型的商用泛化数字人项目，SOTA级。
 ## 🏗️ LangXin digital human
 <p align='center'>
