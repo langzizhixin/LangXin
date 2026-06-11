@@ -1,6 +1,6 @@
 # 🚀 LangXin
 ### SOTA  Digital Human Platform , 
-### LangXin digital human videos in 1080p, 2K, and 4K resolutions.
+### LangXin digital human videos in 1080p, 2K, and 4K resolutions.The original video for deduction needs to be spoken to accurately reproduce the speaker's teeth and mouth shape. It's best to count, 1, 2, 3, 4, 5, 6
 ### 一个超保真还原本人牙齿和嘴型的商用泛化数字人项目，SOTA级。
 ## 🏗️ LangXin digital human
 <p align='center'>
